@@ -17,7 +17,7 @@ REPOSITORY STRUCTURE:
 
 ├── outputs/
 
-       └── final_predictions.csv    # Final price predictions
+       └── 23322023_final.csv    # Final price predictions
 
 
 DATASET DESCRIPTION
